@@ -17,6 +17,7 @@ Fetches posters using:
 🟥 Local Unavailable placeholder if both fail
 
 🛡 Admin Panel with Login
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/d7ecf643-4604-4883-8c5c-bffdc58a1379" />
 
 Add New Movies (with TMDB ID)
 
@@ -26,8 +27,13 @@ Protected with username-password login
 
 Hidden from normal users
 
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/6232a9ad-2983-443f-9982-e5ed0a6714e5" />
+
+
+
 🌙 Modern Dark UI
 Fully styled with a modern black theme and clean UI separation using tabs.
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/3a92fd2e-d935-40a8-884b-bc6da86cc8e4" />
 
 🧠 How It Works
 Movie data is loaded from movie_dict.pkl
@@ -53,6 +59,8 @@ Posters are fetched dynamically using APIs.
 Add
 Delete
 View
+
+
 
 📥 Add a new movie by title + TMDB ID
 
