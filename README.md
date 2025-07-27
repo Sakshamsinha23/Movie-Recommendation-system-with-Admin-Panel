@@ -55,8 +55,7 @@ Credentials (hardcoded):
 plaintext
 Copy
 Edit
-Username: admin
-Password: bitconnect@123
+
 ✅ Once logged in, you'll be able to:
 
 📥 Add a new movie by title + TMDB ID
