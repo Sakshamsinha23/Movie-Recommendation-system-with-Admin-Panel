@@ -38,25 +38,21 @@ On selecting a movie, similar movies are recommended using top 5 similarity scor
 
 Posters are fetched dynamically using APIs.
 
-📂 File Structure
-bash
-Copy
-Edit
-├── app.py                  # Streamlit main app
-├── movie_dict.pkl          # Movie metadata (title, movie_id)
-├── similarity.pkl          # Cosine similarity matrix
+📦 Movie-Recommender-System
+├── app.py                # 🎯 Main Streamlit application
+├── movie_dict.pkl        # 🎬 Movie metadata (titles & TMDB IDs)
+├── similarity.pkl        # 🧠 Precomputed cosine similarity matrix
 ├── static/
-│   └── Unavailable.png     # Fallback image if posters are missing
-└── README.md               # This file!
-🛠 Admin Panel
-Accessed via the Admin Panel tab
-Credentials (hardcoded):
+│   └── Unavailable.png   # 🚫 Placeholder poster if API fetch fails
+├── README.md             # 📘 Project documentation (you're reading it!)
 
-plaintext
-Copy
-Edit
+
+
 
 ✅ Once logged in, you'll be able to:
+Add
+Delete
+View
 
 📥 Add a new movie by title + TMDB ID
 
