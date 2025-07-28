@@ -1,4 +1,4 @@
-# Movie-Recommendation-system-with-Admin-Panel
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/65a52306-15e1-4ca6-bbde-c9a740109b0b" /># Movie-Recommendation-system-with-Admin-Panel
 A smart movie recommender app built with Streamlit. Suggests top 5 similar movies using content-based filtering and cosine similarity. Includes a secure admin panel to add or delete movies. Posters are fetched from TMDB and OMDb, with fallback support for missing images
 🎬 Movie Recommender System
 A sleek and intelligent Movie Recommendation System built with Streamlit, powered by cosine similarity, with an integrated 🔐 Admin Panel to manage your movie database on the fly!
@@ -6,6 +6,7 @@ A sleek and intelligent Movie Recommendation System built with Streamlit, powere
 🚀 Features
 ✨ Smart Recommendations
 Get 5 similar movies based on your selection using content-based filtering (cosine similarity).
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/a53a1560-badb-44bd-be25-a76b39ba72dd" />
 
 🖼 Dynamic Poster Fetching
 Fetches posters using:
