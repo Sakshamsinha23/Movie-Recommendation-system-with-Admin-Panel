@@ -15,6 +15,7 @@ Fetches posters using:
 ✅ OMDb API (fallback)
 
 🟥 Local Unavailable placeholder if both fail
+Live link - https://movie-recommendation-system-f7d79db1d849.herokuapp.com/
 
 🛡 Admin Panel with Login
 <img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/d7ecf643-4604-4883-8c5c-bffdc58a1379" />
